@@ -16,6 +16,11 @@ body {
 
 }
 
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
 main {
     margin-left: 5px;
 }
